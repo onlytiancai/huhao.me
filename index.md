@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 欢迎访问蛙蛙池塘
-tagline: 
 ---
 {% include JB/setup %}
 
