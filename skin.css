@@ -1,6 +1,7 @@
 .navbar .navbar-inner {
     background-color:#5198BF;
     background-image:none;
+    filter:none;
 }
 .navbar .nav > li > a {
     color: #eee;
