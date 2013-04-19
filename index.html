@@ -86,6 +86,34 @@
         <script src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.0.1/bootstrap.min.js"></script>
         <script src="http://cachedcommons.org/cache/showdown/1.0.0/javascripts/showdown-min.js"></script>
         <script src="main.js"></script>
+        <script>
+            (function(){
+                if (!window.addEventListener) return;
+                window.addEventListener('load', function(){
+                    var performance = window.performance;
+                    if (performance === undefined) return;
+                    timing = window.performance.timing;
+                    if (timing === undefined) return;
+
+                    if (document.cookie.indexOf('statistics_clientid=') != -1) return;
+
+                    var domain_lookup_time = timing.domainLookupEnd - timing.domainLookupStart;
+                    var connect_time = timing.connectEnd - timing.connectStart;
+                    var read_content_time = timing.responseEnd - timing.responseStart;
+
+                    new Image().src = 'http://stat.dnspod.cn/statistics/'
+                        + domain_lookup_time + "/" 
+                        + connect_time + "/" 
+                        + read_content_time + ".png"; 
+
+                    var exdate=new Date();
+                    exdate.setDate(exdate.getDate() + 1);
+                    document.cookie="statistics_clientid=me" 
+                    + ";expires="+exdate.toGMTString();
+
+                }, false);
+            }());
+        </script>
     </body>
     <!-- 为了迎接小天天的到来，本博客程序命名为小天天博客，祝小天天能健康茁壮成长。 huhao@2012-03-24 -->
 </html>
