@@ -101,7 +101,8 @@
                     var connect_time = timing.connectEnd - timing.connectStart;
                     var read_content_time = timing.responseEnd - timing.responseStart;
 
-                    new Image().src = 'http://stat.dnspod.cn/statistics/'
+                    new Image().src = ('https:' == document.location.protocol ? 'https://' : 'http://')
+                        + 'stat.dnspod.cn/statistics/'
                         + domain_lookup_time + "/" 
                         + connect_time + "/" 
                         + read_content_time + ".png"; 
