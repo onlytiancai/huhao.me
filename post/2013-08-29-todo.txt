@@ -7,3 +7,4 @@
 1. todo: 看完《深入理解计算机组成原理》
 1. todo: 学习Photoshop滤镜开发
 1. todo: 学习HTML5滤镜开发
+1. todo: 深入学习git
