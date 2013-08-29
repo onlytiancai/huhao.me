@@ -1,0 +1,9 @@
+### todo
+
+1. todo: 学习three.js，做三体模型
+1. todo: 整理常见的网络攻击及防范措施
+1. todo: 学习web.py源码，精简出核心代码
+1. todo: 看完《敏捷软件开发》
+1. todo: 看完《深入理解计算机组成原理》
+1. todo: 学习Photoshop滤镜开发
+1. todo: 学习HTML5滤镜开发
