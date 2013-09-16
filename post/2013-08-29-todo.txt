@@ -10,3 +10,5 @@
 1. todo: 深入学习git
 1. todo: 把wordprocess的一些模版抽取成bootstrap风格
 1. todo: 学习LLVM
+1. todo: 给VIM加上智能的javascript提示
+1. todo: 写一个报警收集器
