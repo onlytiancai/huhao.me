@@ -1,0 +1,13 @@
+工具类
+
+1. [Google Keep 记事本](https://drive.google.com/keep/)
+1. [Alloy Timer 番茄工作法](http://alloyteam.github.io/AlloyTimer/)
+1. [印象笔记](https://www.yinxiang.com/)
+
+牛人博客
+
+1. [Livid, V2EX站长](http://livid.v2ex.com/)
+1. [Rei, Writings.io作者](http://blog.chloerei.com/)
+1. [Dandy Weng, 17岁走遍中国](http://www.dandyweng.com/)
+1. [CMGS1988, python开发者](http://cmgs.me/)
+1. [matthewgao, ios个人开发者](http://matthewgao.com/)
