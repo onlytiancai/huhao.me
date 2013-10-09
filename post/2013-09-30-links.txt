@@ -4,10 +4,15 @@
 1. [Alloy Timer 番茄工作法](http://alloyteam.github.io/AlloyTimer/)
 1. [印象笔记](https://www.yinxiang.com/)
 
-牛人博客
+天才少年
 
 1. [Livid, V2EX站长](http://livid.v2ex.com/)
 1. [Rei, Writings.io作者](http://blog.chloerei.com/)
 1. [Dandy Weng, 17岁走遍中国](http://www.dandyweng.com/)
 1. [CMGS1988, python开发者](http://cmgs.me/)
 1. [matthewgao, ios个人开发者](http://matthewgao.com/)
+
+外国人物
+
+1. [Evan Williams](http://en.wikipedia.org/wiki/Evan_Williams_(entrepreneur))
+1. [Paul Allen](http://en.wikipedia.org/wiki/Paul_Allen)
