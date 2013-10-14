@@ -14,6 +14,7 @@
         {"title": "一组好听的英文歌曲", "file": "2012-09-18-music", "cate":"art"},
         {"title": "2012年技术学习总结", "file": "2013-01-02-summary", "cate":"tech"},
         {"title": "todo", "file": "2013-08-29-todo", "cate":"tech"},
-        {"title": "links", "file": "2013-09-30-links", "cate":"other"}
+        {"title": "links", "file": "2013-09-30-links", "cate":"other"},
+        {"title": "工作思考", "file": "2013-10-14-thinking-work", "cate":"tech"}
         ]
 }
