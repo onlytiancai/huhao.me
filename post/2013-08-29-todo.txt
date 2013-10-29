@@ -16,3 +16,6 @@
 1. todo: 写一个开源的监控本机状态的项目
 1. todo: 深入学习angularjs的scope
 1. todo: 用python，不用设计模式重写《敏捷软件开发》里的工资案例
+1. todo: 详细了解下linux下每个文件的作用
+1. todo: 整理产品开发流程模板
+1. todo: 好习惯记录网站
